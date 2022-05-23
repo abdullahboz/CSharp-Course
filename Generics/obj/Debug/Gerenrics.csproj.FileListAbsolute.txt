@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\bin\Debug\Gerenrics.exe.config
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\bin\Debug\Gerenrics.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\bin\Debug\Gerenrics.pdb
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\obj\Debug\Gerenrics.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\obj\Debug\Gerenrics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\obj\Debug\Gerenrics.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\obj\Debug\Gerenrics.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\Gerenrics\obj\Debug\Gerenrics.pdb
