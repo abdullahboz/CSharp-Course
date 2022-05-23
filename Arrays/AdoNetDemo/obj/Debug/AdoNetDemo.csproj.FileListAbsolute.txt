@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
