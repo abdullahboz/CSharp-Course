@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
