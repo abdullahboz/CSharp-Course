@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
