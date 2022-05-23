@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb
