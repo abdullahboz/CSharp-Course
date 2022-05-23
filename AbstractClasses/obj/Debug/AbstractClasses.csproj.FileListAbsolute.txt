@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Abdullah\Desktop\MediumCsharp\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb
