@@ -14,7 +14,7 @@ namespace Events
 
         /*
          * FormApp'te form'a bir button ekledikten sonra
-         * çift tıkladığımızda bir button clik eventi oluşturuyoruz mutlaka görmüşsünüzdür.
+         * çift tıkladığımızda bir button click eventi oluşturuyoruz mutlaka görmüşsünüzdür.
          * designer kısmına gidip baktığımızda eventi kayıt ediyor += ile bakabilirsiniz.
          */
         static void Main(string[] args)
@@ -25,6 +25,7 @@ namespace Events
             Product gsm = new Product(50);
             gsm.ProductName = "GSM";
             gsm.StockControlEvent += Gsm_StockControlEvent;
+            // Bu kısımda += dedikten sonra 2 kere tab tuşuna bastığınızda ototmatik event metodu oluşturulur.
             for (int i = 0; i < 10; i++)
             {
                 harddisk.Sell(10);
