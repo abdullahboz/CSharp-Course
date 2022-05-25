@@ -25,7 +25,7 @@ namespace Events
             Product gsm = new Product(50);
             gsm.ProductName = "GSM";
             gsm.StockControlEvent += Gsm_StockControlEvent;
-            // Bu kısımda += dedikten sonra 2 kere tab tuşuna bastığınızda ototmatik event metodu oluşturulur.
+            // Bu kısımda += dedikten sonra 2 kere tab tuşuna bastığınızda otomatik event metodu oluşturulur.
             for (int i = 0; i < 10; i++)
             {
                 harddisk.Sell(10);
